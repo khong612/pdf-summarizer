@@ -11,3 +11,18 @@ The script parses text from a user input PDF file and processes it by removing s
 ## Current Goals
 
 - Implement OCR techniques to extract text from PDF files that contain images of text rather than actual text (e.g. scanned documents and books)
+- Resolve undefined behavior with certain PDF file formatting
+
+## Demo
+
+Below is a demo using one of the readings I was assigned:
+
+Original Reading
+
+![originalTestFile](tests/originalTestFile.gif)
+
+Summarized Reading
+
+![summarizedTestFile](tests/summarizedTestFile.PNG)
+
+Not bad!
