@@ -11,6 +11,7 @@ The script parses text from a user input PDF file and processes it by removing s
 ## Current Goals
 
 - Implement OCR techniques to extract text from PDF files that contain images of text rather than actual text (e.g. scanned documents and books)
+- Allow user to adjust degree of summarization using the Flesch-Kincaid readability test
 - Resolve undefined behavior with certain PDF file formatting
 
 ## Demo
